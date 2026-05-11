@@ -4,9 +4,9 @@
   "description": "This is for backend practise",
   "license": "ISC",
   "author": "Taj",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   }
 }
